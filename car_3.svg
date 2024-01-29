@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="608" height="224" xmlns="http://www.w3.org/2000/svg">
+<rect width="608" height="224" x="0" y="0" style="fill:rgb(255,255,255);stroke-width:1;stroke:rgb(0,0,0)" />
+<polygon points="16,160 32,176 112,208 464,208 560,176 592,144 592,128 544,80 400,16 256,16 80,80 48,96 16,128 " fill="cyan" stroke="black" fillRule= 'nonzero' />
+<circle cx="16" cy="160" r="1" stroke="black" stroke-width="2" fill="red" />
+<circle cx="32" cy="176" r="1" stroke="black" stroke-width="2" fill="red" />
+<circle cx="112" cy="208" r="1" stroke="black" stroke-width="2" fill="red" />
+<circle cx="464" cy="208" r="1" stroke="black" stroke-width="2" fill="red" />
+<circle cx="560" cy="176" r="1" stroke="black" stroke-width="2" fill="red" />
+<circle cx="592" cy="144" r="1" stroke="black" stroke-width="2" fill="red" />
+<circle cx="592" cy="128" r="1" stroke="black" stroke-width="2" fill="red" />
+<circle cx="544" cy="80" r="1" stroke="black" stroke-width="2" fill="red" />
+<circle cx="400" cy="16" r="1" stroke="black" stroke-width="2" fill="red" />
+<circle cx="256" cy="16" r="1" stroke="black" stroke-width="2" fill="red" />
+<circle cx="80" cy="80" r="1" stroke="black" stroke-width="2" fill="red" />
+<circle cx="48" cy="96" r="1" stroke="black" stroke-width="2" fill="red" />
+<circle cx="16" cy="128" r="1" stroke="black" stroke-width="2" fill="red" />
+<polygon points="16,160 16,144 16,128 32,112 48,96 64,96 80,80 96,80 112,80 128,80 144,64 160,64 176,64 192,48 208,48 224,32 240,32 256,16 272,16 288,16 304,16 320,16 336,16 352,16 368,16 384,16 400,16 416,32 432,32 448,48 464,48 480,64 496,80 512,80 528,80 544,80 560,96 576,112 592,128 592,144 576,160 560,176 544,176 528,176 512,176 496,176 480,192 464,208 448,208 432,208 416,192 400,176 384,176 368,176 352,176 336,176 320,176 304,176 288,176 272,176 256,176 240,176 224,176 208,176 192,176 176,176 160,192 144,208 128,208 112,208 96,192 80,176 64,176 48,176 32,176 " fill="yellow" stroke="black" fillRule= 'nonzero' />
+</svg>
